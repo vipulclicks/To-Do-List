@@ -10,12 +10,7 @@ A simple and interactive To-Do List web application built using **HTML, CSS, and
 - ❌ Delete tasks  
 - 🎯 Mark tasks as completed  
 - 🔄 Data persistence using Local Storage  
-- 📱 Responsive design  
-
-## 📸 Preview
-
-![To-Do List Preview](screenshot.png)  
-*(Replace with an actual screenshot of your app)*  
+- 📱 Responsive design
 
 ## 🛠️ Technologies Used
 
